@@ -42,3 +42,4 @@
     <h1 class="animated-heading">HE WHO DOES NOTHING MAKES NO MISTAKE</h1>
 </body>
 </html>
+<link rel="stylesheet" href="styles.css">
